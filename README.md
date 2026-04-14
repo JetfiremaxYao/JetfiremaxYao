@@ -2,7 +2,6 @@
 
 # 👋 Hey, I'm Yuexin Yao
 
-**从数据里找矛盾，把矛盾变成产品决策。**
 
 [![Email](https://img.shields.io/badge/Email-1219546241%40qq.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:1219546241@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JetfiremaxYao-181717?style=flat-square&logo=github)](https://github.com/JetfiremaxYao)
@@ -105,6 +104,6 @@ LLM 驱动的智能资讯聚合平台
 
 <div align="center">
 
-*"数据里的反常，比数据本身更值得追。"*
+*"Work hard and keep going"*
 
 </div>
