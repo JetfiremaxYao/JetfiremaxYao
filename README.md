@@ -79,7 +79,6 @@ LLM 驱动的智能资讯聚合平台
 
 *IEEE ISMAR 2024* · **First Author**
 
-> 24 participants × 59 panels × 1,416 behavioral data points → 用户说最喜欢的展示形式，使用率反而最低。追下去，找到了根因，写进了设计规范。
 
 🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10765420)
 
